@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m @TechyDavid
 - 👀 I’m interested in Front-end Developments and Web design
-- 🌱 I’m currently learning Django and Python
+- 🌱 I’m proficient in React and Next.js
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me
 - <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_davigner/)</code>
