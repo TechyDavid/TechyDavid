@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center">
-<a href="https://https://www.instagram.com/_davigner/" alt="Instgram Follow">
+<a href="https://https://www.instagram.com/fvckwithrufus/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/david-rufus-435483288/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
